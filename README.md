@@ -1,0 +1,2 @@
+# SeemplicityAss
+Seemplicity Home Assignment.
